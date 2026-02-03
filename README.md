@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <title>Warehouse QR Scanner</title>
-    <script src="https://unpkg.com/html5-qrcode"></script>
 
+<!DOCTYPE html>
     <style>
         body {
             margin: 0;
